@@ -1,0 +1,167 @@
+.ideas {
+    background-color: #1de592;
+    margin: 15px 380px;
+    padding: 100px 90px 100px 60px;
+    text-align: left;
+    border-radius: 10px;
+    font-family: system-ui;
+}
+
+.ideas-h1 {
+    margin: 0px;
+}
+
+.ideas-p {
+    font-size: 12px;
+    font-weight: 600;
+    margin: 15px 0px;
+}
+
+.ideas-button {
+    border: none;
+    border-radius: 20px;
+    padding: 10px 30px;
+    font-weight: bold;
+}
+
+.profiles {
+    border: 1px solid #cdcaca;
+    background-color: #ffffff;
+    margin: 15px 380px;
+    text-align: left;
+    border-radius: 10px;
+    font-family: system-ui;
+}
+
+.profiles-h1 {
+    margin: 30px 0px 15px 30px;
+    font-weight: 400;
+}
+
+.profiles-p {
+    margin: 0px 30px 0px 30px;
+    font-size: 18px;
+    font-weight: 400;
+    color: gray;
+}
+
+.profiles-images {
+    padding: 40px 50px 40px 40px;
+}
+
+.profiles-img {
+    width:70px;
+    height:70px;
+    border-radius: 50px;
+    margin: 0px 40px;
+}
+
+.profiles-div {
+    border-top : 1px solid #cdcaca;
+    padding: 0px 0px 0px 30px;
+    box-sizing: border-box;
+    color: #1c73e8;
+   
+}
+
+.profiles-h1 {
+    font-weight: 500;
+}
+
+.googlephotos {
+    border: 1px solid #cdcaca;
+    background-color: #ffffff;
+    margin: 15px 380px;
+    text-align: left;
+    border-radius: 10px;
+    font-family: system-ui;
+}
+
+.googlephotos-img {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    width: 100%;
+    height: 100%;
+}
+
+.googlephotos-div {
+    padding: 0px 0px 0px 25px;
+}
+
+.googlephotos-img-lock{
+    width: 25px;
+    height: 25px;
+    margin: 0px 0px -4px 0px;
+    padding: 0px 10px 0px 0px;
+}
+
+.googlephotos-h4 {
+    color: #5f6367;
+    font-weight: 400;
+}
+
+.googlephotos-h1 {
+    font-weight: 400;
+}
+
+.googlephotos-p {
+    /* margin: 0px 30px 0px 30px; */
+    font-size: 23px;
+    font-weight: 400;
+    color: gray;
+}
+
+.googlephotos-btn {
+    border: 1px solid gray;
+    background-color: white;
+    color: #1c73e8;
+    margin: 15px 0px 40px 0px;
+    padding: 15px 50px 15px 50px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.login {
+    background-color: #ffffff;
+    margin: 100px 530px 100px 500px;
+    text-align: center;
+    font-family: system-ui;
+    font-size: 10px;
+    color: gray;
+}
+
+.login-input {
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 12px;
+    font-size: 12px;
+    box-sizing: border-box;
+    border: 1px solid #e9e9e9;
+    border-radius: 10px;
+    color: black;
+}
+
+.login-btn {
+    margin-top: 15px;
+    background-color: black;
+    border-radius: 30px;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 600;
+}
+
+.login-div {
+    padding: 20px 20px;
+}
+
+.login-img {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 10px;
+}
+
+.login-h4 {
+    color: black;
+    margin-bottom: 20px;
+}
